@@ -37,7 +37,9 @@
   "files.associations": {
     "deque": "cpp",
     "iostream": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "cstdlib": "cpp",
+    "new": "cpp"
   },
   "C_Cpp_Runner.showCompilationTime": false
 }
